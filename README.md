@@ -6,7 +6,7 @@
 
 
 <a href="https://www.linkedin.com/in/gabriely-paz-8513021b8/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/gabriely__paz?igshid=YTQwZjQ0NmI0OA=="><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/gabriely__paz/?igshid=YTQwZjQ0NmI0OA%3D%3D"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:gabrielysouza120@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 ### Sobre mim:
