@@ -13,7 +13,7 @@
 
 - 👋 Olá, eu sou a <b>@GabrielyPaz</b>
 - :house: Região de Campinas/SP;
-- 🌱 Atualmente estou aprendendo springboot;
+- 🌱 Atualmente estou aprendendo Graphql, Kafka e Kubernates;
 - 💞️ Procuro colaborar em projetos java!
 
 <br />
